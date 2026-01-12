@@ -1,4 +1,4 @@
-# Amazon ML Challenge: Multimodal Price Predictor
+# Amazon ML Challenge: Smart Product Price Predictor
 
 This project is a smart implementation to predict product prices using images and catalog content. It combines deep learning embeddings with custom feature engineering like extracting units from catalog content and standardizing them and using KNN to turn messy data into accurate price tags.
 
