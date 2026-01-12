@@ -11,7 +11,7 @@ Predicting prices from 150,000+ entries is a challenge of scale and noise. My so
 ### 🛠️ How it Works
 
 * **Vision & Text:** Uses **OpenAI’s CLIP** for images and **SBERT** for text to create deep mathematical representations of products.
-* **Smart Features:** Includes a **KNN "Lookalike" engine** that finds similar products to see how they are priced, acting like a comparison shopper.
+* **Smart Features:** Includes a **KNN "Lookalike" engine** that finds similar products to see how they are priced, acting like a comparison shopper and also included a logic to extract numeric values from the catalog content and **standardize** them to avoid false learning.
 * **Data Cleanup:** Uses Regex to extract and standardize weights and volumes (like converting lbs and oz to grams) to avoid false learning from inconsistent units.
 * **Advanced Training:** Uses **XGBoost** with 32-bit precision tuning to handle large data within limited GPU memory.
 
