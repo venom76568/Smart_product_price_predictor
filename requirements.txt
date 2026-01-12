@@ -1,0 +1,20 @@
+# Multimodal & Embeddings
+transformers
+sentence-transformers
+ftfy
+torch
+torchvision
+pillow
+
+# Machine Learning & Stats
+xgboost
+scikit-learn
+
+# Data Processing
+pandas
+numpy
+regex
+
+# Progress & Utilities
+tqdm
+opencv-python
