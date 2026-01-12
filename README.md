@@ -37,4 +37,3 @@ pip install -r requirements.txt
 
 ---
 
-**Would you like me to help you write a short "How to Use" guide for the dataset link in this README?**
