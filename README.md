@@ -24,9 +24,9 @@ Predicting prices from 150,000+ entries is a challenge of scale and noise. My so
 
 ### 📂 Repository Structure
 
-* `Amazon_ML_Challenge_Solution.ipynb`: The complete end-to-end code.
+* `amazonml_final.ipynb`: The complete end-to-end code.
 * `requirements.txt`: Necessary libraries to run the project.
-* `submission_sample.csv`: Example output file.
+* `submission_price_prediction.csv`: Example output file.
 
 ### ⚙️ Installation
 
