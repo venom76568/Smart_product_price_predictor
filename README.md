@@ -17,7 +17,7 @@ Predicting prices from 150,000+ entries is a challenge of scale and noise. My so
 
 ### 📈 Results
 
-* **SMAPE Score:** Improved from **65% to 46%** through smart feature stacking and precision optimization.
+* **SMAPE(Error) Score:** Improved from **65% to 46%** through smart feature stacking and precision optimization.
 * **Efficiency:** Processes 150k+ items within 3 days under strict memory limitations.
 
 ---
